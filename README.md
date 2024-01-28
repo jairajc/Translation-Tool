@@ -16,8 +16,8 @@ Creating a general translation tool using Google Translator as the base and inte
 
 4. Designing the Application
 
-   Sketching out the UI for our web application – how users will interact with it, where the original and translated texts will be displayed, etc.
-        Plan how the Flask app will handle requests, interact with Google Translate, and process Doccano datasets.
+   Sketching out the UI for web application – how users will interact with it, where the original and translated texts will be displayed, etc.
+        Plan as how the Flask app will handle requests, interact with Google Translate, and process Doccano datasets.
 
 5. Building the Flask Application
 
