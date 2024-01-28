@@ -29,4 +29,4 @@ Creating a general translation tool using Google Translator as the base and inte
         Use JavaScript (I did't) to manage dynamic content on the client side, like sending requests to your Flask backend and updating the web page with translated text.
 
 5. Deployment
-        Once everything works as expected, you can deploy your Flask app. Options include Heroku, AWS, or a similar cloud service.
+        After everything works as expected, I deployed the Flask app. Options include Heroku, AWS, or a similar cloud service.
